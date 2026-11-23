@@ -189,10 +189,6 @@ One feature is worth watching. The recent steepening is driven by **rising long-
 - **Euro-area version** using Bund yields and CEPR recession dates
 - **A combined model** using the curve, credit conditions and the Sahm rule together
 
-## How to run
-
-**Google Colab (recommended):
-
 
 
 ## References
